@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @parisa0721
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning site design
-- 💞️ I’m looking to collaborate on team working
-- 📫 How to reach me ...
-
-<!---
-parisa0721/parisa0721 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://gearboxsun.com/automatic-gearbox-repair/
+https://gearboxsun.com/automatic-gearbox-repair/kia/
+https://gearboxsun.com/%d8%aa%d8%b9%d9%85%db%8c%d8%b1-%da%af%db%8c%d8%b1%d8%a8%da%a9%d8%b3-%d8%a7%d8%aa%d9%88%d9%85%d8%a7%d8%aa%db%8c%da%a9-%d8%aa%d9%88%db%8c%d9%88%d8%aa%d8%a7/
+https://gearboxsun.com/automatic-gearbox-repair/jac/
